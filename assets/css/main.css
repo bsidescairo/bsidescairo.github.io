@@ -31,7 +31,7 @@ a {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #0a374e;
+  color: #0c3950;
 }
 
 a:hover {
@@ -893,12 +893,12 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #organizers {
-  color: #ffffff;
-  background: #0c3950;
+  background: #fcefce;
 }
 
 #sponsors {
-  background: #fcefce;
+  color: #ffffff;
+  background: #0c3950;
 }
 
 #venue {
@@ -963,6 +963,18 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* ===================== */
 
+/* ORGANIZERS */
+
+.white-container{
+	background: #fcefce;
+	color: #0c3950; 
+}
+.white-container a{
+	background: #fcefce;
+	color: #0c3950; 
+}
+
+/* ========== */
 .about-item {
   padding: 10px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.17);
@@ -1740,95 +1752,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin-bottom: 30px;
   margin: 0 auto;
   width: 100%;
-}
-
-/* Contact Forme */
-#google-map-area {
-  position: relative;
-}
-
-#google-map-area .container-fluid {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.container-form {
-  left: 0%;
-  padding: 40px 15px;
-  margin-left: -15px;
-  z-index: 99;
-}
-
-.container-form .form-wrapper {
-  background-color: white;
-  padding: 56px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-}
-
-.container-form .form-wrapper .form-group {
-  margin-bottom: 30px;
-}
-
-.container-form .form-wrapper .form-control {
-  display: block;
-  width: 100%;
-  line-height: 26px;
-  font-size: 14px;
-  box-shadow: none;
-  color: #848484;
-  text-transform: capitalize;
-  background: #f7f7f7;
-  border: 1px solid transparent;
-  padding: 7px 19px;
-  border-radius: 0px;
-  background-image: none;
-  background-clip: padding-box;
-}
-
-.container-form .form-wrapper .form-control:focus {
-  color: #212121;
-  background-color: #fff;
-  border-color: #215172;
-  box-shadow: none;
-  outline: 0;
-}
-
-.form-submit .btn-common {
-  width: 100%;
-}
-
-.list-unstyled li {
-  margin-top: 10px;
-  color: #dc3545 !important;
-}
-
-.text-danger {
-  margin-top: 20px;
-  font-size: 18px;
-}
-
-.form-control {
-  display: block;
-  width: 100%;
-  line-height: 27px;
-  font-size: 14px;
-  box-shadow: none;
-  color: #848484;
-  text-transform: capitalize;
-  background: #f7f7f7;
-  padding: 7px 19px;
-  border: 1px solid #e5e5e5;
-  border-radius: 0px;
-  transition: all 500ms ease;
-  -webkit-transition: all 500ms ease;
-  -ms-transition: all 500ms ease;
-  -o-transition: all 500ms ease;
-}
-
-.form-control:focus {
-  border-color: #215172;
-  box-shadow: none;
-  outline: 0;
 }
 
 /* Footer Area Start */
