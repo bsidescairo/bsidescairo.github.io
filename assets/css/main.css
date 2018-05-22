@@ -862,18 +862,21 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 /* sections backgrounds */
-
-#about {
+#countdown {
   background: #ffffff;
 }
 
-#registration {
+#about {
   color: #ffffff;
   background: #0c3950;
 }
 
+#registration {
+  background: #fcefce;
+}
+
 #cft {
-  background: #ffffff;
+  background: #fcefce;
 }
 
 #services {
@@ -886,17 +889,16 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #program {
-  color: #ffffff;
-  background: #0c3950;
-}
-
-#organizers {
   background: #ffffff;
 }
 
-#sponsors {
-  background: #0c3950;
+#organizers {
   color: #ffffff;
+  background: #0c3950;
+}
+
+#sponsors {
+  background: #fcefce;
 }
 
 #venue {
@@ -904,8 +906,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #coc {
-  background: #0c3950;
-  color: #ffffff
+  background: #fcefce;
 }
 
 #contact {
@@ -913,7 +914,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #footer {
-  background: #feeab4;
+  background: #0c3950;
+  color: #ffffff
 }
 
 .section-title-white{
@@ -1837,7 +1839,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .footer-area h3 {
   font-size: 20px;
-  color: #a30119;
+  color: #ffffff;
   font-weight: 700;
   padding-bottom: 10px;
   letter-spacing: 0.5px;
@@ -1845,20 +1847,20 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .footer-area p {
   font-size: 14px;
-  color: #a30119;
+  color: #ffffff;
   line-height: 20px;
   margin: 0;
   padding-right: 50px;
 }
 
 .footer-area ul li a {
-  color: #a30119;
+  color: #ffffff;
   font-size: 13px;
   font-weight: 400;
 }
 
 .footer-area ul li a:hover {
-  color: #0c3950;
+  color: #a30119;
 }
 
 .footer-area .footer-social li {
@@ -1866,8 +1868,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .footer-area .footer-social li a {
-  color: #ffffff;
-  background: #a30119;
+  color: #0c3950;
+  background: #ffffff;
   width: 35px;
   height: 35px;
   line-height: 35px;
