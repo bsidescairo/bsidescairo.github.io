@@ -25,7 +25,7 @@
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 210px;
   }
-  #pricing .price-block-wrapper .pricing-list {
+  #registration .price-block-wrapper .pricing-list {
     padding: 10px 35px 10px 45px;
   }
   #sponsors .spnsors-logo img {
@@ -66,7 +66,7 @@
   .schedule .card-header h4 {
     font-size: 14px;
   }
-  #pricing .price-block-wrapper .pricing-list {
+  #registration .price-block-wrapper .pricing-list {
     padding: 10px 35px 10px 45px;
   }
   #sponsors .spnsors-logo img {
@@ -115,7 +115,7 @@
   .schedule .card-header h4 {
     font-size: 14px;
   }
-  #pricing .price-block-wrapper .pricing-list {
+  #registration .price-block-wrapper .pricing-list {
     padding: 10px 35px 10px 60px;
   }
   .about-item {
@@ -124,7 +124,7 @@
   .accordion .header-title {
     font-size: 12px;
   }
-  #pricing .price-block-wrapper .pricing-list {
+  #registration .price-block-wrapper .pricing-list {
     padding: 10px 60px 10px 45px;
   }
   #sponsors .spnsors-logo {
@@ -201,7 +201,7 @@
   .accordion .header-title {
     font-size: 11px;
   }
-  #pricing .price-block-wrapper .pricing-list {
+  #registration .price-block-wrapper .pricing-list {
     padding: 10px 30px 10px 40px;
   }
   #sponsors .spnsors-logo {

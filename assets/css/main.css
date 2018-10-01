@@ -1086,7 +1086,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 #sponsors .spnsors-logo {
   text-align: center;
   border-radius: 4px;
-  padding: 50px;
+  padding: 5px;
   margin-bottom: 30px;
   display: inline-block;
   border: 1px solid #ddd;
@@ -2030,23 +2030,22 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin: 15px 0px 50px 0;
 }
 
-/* Pricing Ticket */
-#pricing {
-  background: url(../img/background/bg-pricing.jpg);
+/* Registration Ticket */
+#registration {
   background-attachment: fixed;
   overflow: hidden;
   position: relative;
 }
 
-#pricing .section-title-header .section-title {
+#registration .section-title-header .section-title {
   color: #0a374e;
 }
 
-#pricing .section-title-header p {
+#registration .section-title-header p {
   color: #0a374e;
 }
 
-#pricing .price-block-wrapper {
+#registration .price-block-wrapper {
   text-align: center;
   display: inline-block;
   width: 100%;
@@ -2055,20 +2054,20 @@ a.back-to-top:hover, a.back-to-top:focus {
   padding: 30px;
 }
 
-#pricing .price-block-wrapper .icon {
+#registration .price-block-wrapper .icon {
   padding: 20px;
 }
 
-#pricing .price-block-wrapper .icon i {
+#registration .price-block-wrapper .icon i {
   font-size: 60px;
   color: #215172;
 }
 
-#pricing .price-block-wrapper .colmun-title {
+#registration .price-block-wrapper .colmun-title {
   margin-top: 15px;
 }
 
-#pricing .price-block-wrapper .colmun-title h5 {
+#registration .price-block-wrapper .colmun-title h5 {
   font-size: 18px;
   line-height: 30px;
   color: #212121;
@@ -2078,21 +2077,21 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-transform: uppercase;
 }
 
-#pricing .price-block-wrapper .price {
+#registration .price-block-wrapper .price {
   padding-bottom: 10px;
   transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
   -moz-transition: all 500ms ease;
 }
 
-#pricing .price-block-wrapper .price h2 {
+#registration .price-block-wrapper .price h2 {
   font-size: 38px;
   color: #5c5c5c;
   line-height: 42px;
   margin: 0;
 }
 
-#pricing .price-block-wrapper .price p {
+#registration .price-block-wrapper .price p {
   font-size: 15px;
   color: #5c5c5c;
   font-weight: 700;
@@ -2104,29 +2103,29 @@ a.back-to-top:hover, a.back-to-top:focus {
   -moz-transition: all 500ms ease;
 }
 
-#pricing .price-block-wrapper .pricing-list {
+#registration .price-block-wrapper .pricing-list {
   padding: 10px  60px 10px 78px;
   text-align: left;
 }
 
-#pricing .price-block-wrapper .pricing-list ul {
+#registration .price-block-wrapper .pricing-list ul {
   padding-bottom: 15px;
 }
 
-#pricing .price-block-wrapper .pricing-list ul li {
+#registration .price-block-wrapper .pricing-list ul li {
   font-size: 15px;
   color: #212121;
   font-weight: 400;
   padding: 2px 0px;
 }
 
-#pricing .price-block-wrapper .pricing-list ul li i {
+#registration .price-block-wrapper .pricing-list ul li i {
   margin-right: 7px;
   font-size: 12px;
   color: #215172;
 }
 
-#pricing .price-block-wrapper .btn i {
+#registration .price-block-wrapper .btn i {
   font-size: 12px;
   margin-right: 5px;
 }
